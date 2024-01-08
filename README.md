@@ -1,7 +1,7 @@
 
 ## License
 
-(https://netflixweb11.netlify.app/)
+(https://mynetflixxclone.netlify.app/)
 
 
 ## `Project Live Url`:
