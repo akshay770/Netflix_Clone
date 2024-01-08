@@ -1,1 +1,1 @@
-<a href="netflixweb11.netlify.app" target="_blank">Netflix Web</a>
+<a href="https://netflixweb11.netlify.app/" target="_blank">Netflix Web</a>
