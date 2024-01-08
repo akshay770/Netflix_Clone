@@ -1,3 +1,3 @@
 ## `Project Live Url`:
 
-(https://mynetflixxclone.netlify.app/)
+(https://moviesite123.netlify.app/)
