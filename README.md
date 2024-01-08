@@ -1,4 +1,9 @@
 
 ## License
 
-[MIT](https://netflixweb11.netlify.app/)
+(https://netflixweb11.netlify.app/)
+
+
+## `Project Live Url`:
+
+(https://mian-ali.github.io/GymWebsite/)
