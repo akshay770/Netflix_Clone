@@ -1,1 +1,4 @@
-<a href="https://netflixweb11.netlify.app/" target="_blank">Netflix Web</a>
+
+## License
+
+[MIT](https://netflixweb11.netlify.app/)
